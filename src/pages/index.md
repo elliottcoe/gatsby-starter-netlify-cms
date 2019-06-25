@@ -10,8 +10,8 @@ mainpitch:
     technologies. 
 description: >-
   I started my professional career in the IT Support industry, but realised I
-  find it more fulfilling to be creating thing rather than fixing things, I had
-  some knowledge of web development, but I went strength to strength to learn
-  everything I needed by get my first job in web development.
+  find it more fulfilling to be creating things, I had some knowledge of web
+  development, but I went strength to strength to learn everything I needed by
+  get my first job in web development.
 ---
 
