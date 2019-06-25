@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Elliott Coe
-image: /img/home-jumbotron.jpg
+image: /img/main-header2.jpg
 heading: Great coffee with a conscience
 subheading: Full Stack Developer
 mainpitch:
