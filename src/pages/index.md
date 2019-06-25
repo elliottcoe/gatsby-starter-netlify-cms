@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Elliott Coe
-image: /img/photo-1533709752211-118fcaf03312.jpeg
+image: /img/main-header2.jpg
 heading: Elliott Coe
 subheading: Full Stack Developer
 mainpitch:

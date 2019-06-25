@@ -5,6 +5,8 @@ import { Link, graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Features from '../components/Features'
 import BlogRoll from '../components/BlogRoll'
+const { fmImagesToRelative } = require('gatsby-remark-relative-images')
+
 
 export const IndexPageTemplate = ({
   image,
