@@ -5,12 +5,10 @@ image: /img/main-header2.jpg
 heading: Elliott Coe
 subheading: Full Stack Developer
 mainpitch:
-  title: Why Kaldi
+  title: About Me
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    I am a full stack developer with knowledge in a vast amount of web
+    technologies.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
