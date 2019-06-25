@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Elliott Coe
 image: /img/main-header2.jpg
-heading: Elliott Coe
+heading: Test
 subheading: Full Stack Developer
 mainpitch:
   description: >
