@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Elliott Coe
 image: /img/main-header2.jpg
-heading: Great coffee with a conscience
+heading: Elliott Coe
 subheading: Full Stack Developer
 mainpitch:
   title: Why Kaldi
@@ -68,3 +68,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
