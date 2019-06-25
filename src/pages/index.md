@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Elliott Coe
-image: /img/main-header2.jpg
+image: /img/apple-touch-icon.png
 heading: Elliott Coe
 mainpitch:
   description: >
